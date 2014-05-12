@@ -25,7 +25,7 @@
         <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="module" module-name="android-support-v7-appcompat" exported="" />
+    <orderEntry type="module" module-name="v7-appcompat" exported="" />
   </component>
 </module>
 
